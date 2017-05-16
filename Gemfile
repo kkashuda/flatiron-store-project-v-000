@@ -15,7 +15,6 @@ group :test, :development do
   gem "launchy"
   gem "rack_session_access"
   gem "selenium-webdriver"
-  gem "better_errors"
   gem "binding_of_caller"
   gem "factory_girl_rails"
   gem "simplecov"
@@ -29,3 +28,4 @@ end
 gem "bootstrap-sass", "~> 3.1.1"
 gem "faker"
 gem "friendly_id"
+gem "pry"
